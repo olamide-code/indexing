@@ -1,4 +1,5 @@
 # Learn.py
+# A compund Interest Calculator
 
 This is a beginner-friendly Python project created by Olamide.
 This is my third project
